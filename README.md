@@ -1,16 +1,15 @@
-# to_do_list
+# To-Do List
 
-A new Flutter project.
+A professional, minimalist To-Do List app built with Flutter.
+
+## Features
+- **Offline Persistence**: Fast, local storage using Hive.
+- **Advanced Task Logic**: Support for repeating tasks (daily/weekly), priorities, and categories.
+- **Smart Views**: Organized lists for Today, Upcoming, and Overdue tasks.
+- **Premium Design**: Dark mode support, haptic feedback, and a clean Indigo aesthetic.
+- **Search & Filter**: Real-time search across titles and notes with category filtering.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository.
+2. Run `flutter pub get`.
+3. Run `flutter run`.
