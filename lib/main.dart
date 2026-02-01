@@ -36,7 +36,7 @@ class TodoApp extends ConsumerWidget {
     final themeMode = ref.watch(themeProvider);
     
     return MaterialApp(
-      title: 'To-Do List',
+      title: 'To Do List',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.light,
       darkTheme: AppTheme.dark,
